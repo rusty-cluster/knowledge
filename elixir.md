@@ -7,3 +7,7 @@
 
 * [The complete Elixir and Phoenix Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
+
+## Anti-patterns
+
+* [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells)
