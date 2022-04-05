@@ -30,3 +30,19 @@ I/we/he/she/etc. + never + use to + basic verb
 Did +you/he/she/etc. + use to + basic verb
 > Did you use to live in New York?
 
+## present continuous
+
+the action is continuing and isn't finished.\
+she has started it, but she hasn't finished it.\
+it is changing over this time period.
+
+Am/is/are + ing verb
+> I am eating dinner = I'm eating dinner
+
+Am/is/are + not + ing verb
+> it is not doing = it's not or it isn't doing 
+>
+> They are not doing = they're not or they aren't doing
+
+Am/is/are + subject + ing verb
+> Are you looking in the right place?
