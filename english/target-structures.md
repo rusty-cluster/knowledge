@@ -99,7 +99,7 @@ be + -ing + verb + -ing
 
 talk about two things or people
 
-*both/neither/either + noun
+both/neither/either + noun
 
 > **Both** books are really interesting. I highly recommend them.\
 > **Neither** book is boring.\
@@ -139,7 +139,70 @@ you can use both, neither and either alone if your intended meaning is clear:
 
 either is positive and neither is negative. We can use a negative word with either to mean neither:
 
-> I was invited to two weddings. but I **couldn't** go to **either** of them.\
-> I was invited to two weddings. but I could go to **neither** of them.
+> I was invited to two weddings. But I **couldn't** go to **either** of them.\
+> I was invited to two weddings. But I could go to **neither** of them.
 
-These sentences mean the same thing: I could't go to any of the two weddings.
+These sentences mean the same thing: I couldn't go to any of the two weddings.
+
+## present perfect 1
+
+we use it to talk about things that happened in the past up until this point in our life. think of the **present perfect 1** as in **my life up to now**.
+
+I/we/you/they + have + past participle verb
+he/she/it + has + past participle verb
+
+>> They **have won** so many awards for their music.
+>
+>> She **has completed** many skydives.
+
+I/we/you/they + haven't + past participle verb
+he/she/it + hasn't + past participle verb
+
+>> I **haven't visited** a foreignt country.
+>
+>> He **hasn't run** in a marathon.
+
+I/we/you/they + have + never + past participle verb
+he/she/it + has + never + past participle verb
+
+>> I have many cousind living abroad who I **have never met**. I hope to meet them some day.
+>
+>> Lee **has never eaten** meat.
+
+have + I/we/you/they + past participle verb
+has + he/she/it + past participle verb
+
+>> **Have** you **eaten** sushi before?
+>
+>> **Has** Fiona **ridden** a motorbike?
+
+I/we/you/they + haven't + past participle verb
+he/she/it + hasn't + past participle verb
+
+>> I **haven't visited** a foreignt country.
+>
+>> He **hasn't run** in a marathon.
+
+we use **ever** with the present perfect 1 in question to mean **in your life**.
+
+>> **Have** you **ever met** a famous person? = In your life, have you met a famous person?
+
+we use **never** with the present perfect 1 to mean **not in your life**.
+
+> I **have never seen** the movie Toy Story = In my life, I haven't seen Toy Story.
+
+we use **been** to mean visited or went with the **present perfect 1**.
+
+> Harry **has been** to Paris eight times.
+
+we can contract **has** and **have** with the subject.
+
+* he **'s** (he **has**)
+* she **'s** (she **has**)
+* I **'ve** (I **have**)
+* you **'ve** (you **have**) etc.
+
+we can contract **has** and **have** with not.
+
+* **hasn't** (**has not**)
+* **haven't** (**have not**)
