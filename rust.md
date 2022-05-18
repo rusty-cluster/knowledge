@@ -5,3 +5,4 @@
 ## Courses
 
 * [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/)
+* [Rust lang: The complete beginner's guide](https://www.udemy.com/course/rustaceans/)
