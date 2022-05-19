@@ -10,3 +10,7 @@
 * [Irregular verbs by frequency](https://www.geisteswissenschaften.fu-berlin.de/we06/arbeitsbereiche/didaktik_des_englischen/primary/buecher/IrregVerbs/index.html)
 * [Tenses](https://www.englisch-hilfen.de/en/grammar/english_tenses.htm)
 * [Punctuation](https://www.wikihow.com/Use-English-Punctuation-Correctly)
+
+## Video
+
+* [Irregular verbs by pattern](https://www.youtube.com/watch?v=gIxnGGVhm-g)
