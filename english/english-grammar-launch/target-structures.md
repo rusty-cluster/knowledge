@@ -1,15 +1,3 @@
-## Enough and too
-
-This bed is big enough - It's a good size for me
-This bed is not big enough - It needs to be bigger
-This bed is too big - It needs to be smaller
-
-adjective/adverb + enough
-enough + noun
-too + adjective
-
-> The zebra ran quickly enough to escape from the lion.
-
 ## Used to
 
 Something often happened in the past, but doesn't happen now
