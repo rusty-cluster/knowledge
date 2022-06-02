@@ -13,6 +13,6 @@
 
 ## Video
 
-* [44 Phonemes](https://youtu.be/wBuA589kfMg) 
+* [44 Phonemes](https://youtu.be/QxQUapA-2w4) 
 * [Irregular verbs by pattern](https://www.youtube.com/watch?v=gIxnGGVhm-g)
 
