@@ -18,5 +18,5 @@
 
 ## Dictionaries
 
-* [Merriam-Webster](https://www.merriam-webster.com/dictionary/undertake)
+* [Merriam-Webster](https://www.merriam-webster.com/)
 * [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
