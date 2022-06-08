@@ -1,17 +1,3 @@
-## Present continuous
-
-The action **continues and is not finished**. It changes during this period of time.
-
-Am/is/are + ing verb
-> I am eating dinner = I'm eating dinner
-
-Am/is/are + not + ing verb
-> It is not doing = it's not or it isn't doing
-> They are not doing = they're not or they aren't doing
-
-Am/is/are + subject + ing verb
-> Are you looking in the right place?
-
 ## Present simple
 
 There are **two main meanings** for the present simple.
