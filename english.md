@@ -16,3 +16,7 @@
 * [44 Phonemes](https://youtu.be/QxQUapA-2w4) 
 * [Irregular verbs by pattern](https://www.youtube.com/watch?v=gIxnGGVhm-g)
 
+## Dictionaries
+
+* [Merriam-Webster](https://www.merriam-webster.com/dictionary/undertake)
+* [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
