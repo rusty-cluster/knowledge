@@ -2,15 +2,13 @@
 
 So when we say **must**, there are two meanings:
 
-* The first one means something similar to **have to**. It's an imperative.
-  > You *have to* finish your homework.
+The first one means something similar to **have to**. It's an imperative.
+> You *have to* finish your homework.
 
-* The second means. You **believe** something is true or certain. You may be wrong, but you believe it to be true.
-
-  It doesn't mean *you have to do something*, it means *I think, I guess this is true based on some evidence that I can see*.
-
-  So all these things are really guesses.
-  > Paul works from 8am until 10pm - 14 hours a day! He **must get** so tired.
+The second means. You **believe** something is true or certain. You could be wrong, but you believe it to be true.
+It doesn't mean *you have to do something*, it means *I think, I guess this is true based on some evidence that I can see*.
+So all these things are really guesses.
+> Paul works from 8am until 10pm - 14 hours a day! He **must get** so tired.
 
 ### I/he/she/it/we/you/they + must + be + adjective
 > You **must be hungry**. Let me make you a sandwich.
@@ -34,9 +32,8 @@ If we want to talk about the past, we use this structure:
 Just remember, the present form we use **must**, the past form we use **must have**.
 
 Don't confuse this meaning of **must** with the other meaning. Notice the difference:
->> You worked so hard today. You **must be** really tired. = **I believe** that this is true.
->
->> You worked so hard today. You **must take** a rest right now. = You **have to** do this.
+> You worked so hard today. You **must be** really tired. = **I believe** that this is true.
+> You worked so hard today. You **must take** a rest right now. = You **have to** do this.
 
 We can contract the past structure like this:
 **Must have** = **must've**
