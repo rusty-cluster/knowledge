@@ -10,23 +10,23 @@ It doesn't mean *you have to do something*, it means *I think, I guess this is t
 So all these things are really guesses.
 > Paul works from 8am until 10pm - 14 hours a day! He **must get** so tired.
 
-### I/he/she/it/we/you/they + must + be + adjective
+I/he/she/it/we/you/they + must + be + adjective
 > You **must be hungry**. Let me make you a sandwich.
 
-### I/he/she/it etc. + must + be + -ing verb.
+I/he/she/it etc. + must + be + -ing verb.
 > Look, there's John driving his car. He **must be going** to work.
 
-### I/he/she/it etc. + must + basic verb.
+I/he/she/it etc. + must + basic verb.
 > You are from England? You **must drink** lots of tea.
 
 If we want to talk about the past, we use this structure:
-### I/he/she/it etc. + must + have + been + adjective.
+I/he/she/it etc. + must + have + been + adjective.
 > John **must have been asleep** when I called him. He sounded very tired.
 
-### I/he/she/it etc. + must + have + been + -ing verb.
+I/he/she/it etc. + must + have + been + -ing verb.
 > I **must have been sleeping** when you knocked on the door because I didn't hear it.
 
-### I/he/she/it etc. + must + have + past participle verb (gone, eaten, known etc.)
+I/he/she/it etc. + must + have + past participle verb (gone, eaten, known etc.)
 > I feel so sick. I **must have eaten** something bad yesterday.
 
 Just remember, the present form we use **must**, the past form we use **must have**.
