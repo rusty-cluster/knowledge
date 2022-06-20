@@ -9,4 +9,5 @@
 
 ## Practice
 
+* [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 * [Exercism](https://exercism.org/tracks/rust)
