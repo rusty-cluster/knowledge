@@ -50,6 +50,16 @@ We use **never** with the **present perfect 1** to mean **not in your life**.
 > I **have never seen** the movie Toy Story = In my life, I haven't seen Toy Story.
 
 We use **been** to mean **visited** or **went** with the **present perfect 1**.
-> Harry has been to Paris eight times.
+> Harry **has been** to Paris eight times.
 
-> I have been to this art gallery so many times because I like the paintings.
+> I **have been** to this art gallery so many times because I like the paintings.
+
+We can contract **has** and **have** with this subject.
+**He's** = he has.
+**She's** = she has.
+**I've** = I have
+**You've** = you have *etc.*
+
+We can contract **has** and **have** with **not**.
+**Hasn't** = has not.
+**Havan't** = have not.
