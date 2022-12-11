@@ -2,6 +2,7 @@
 
 * [Programming Ecto](https://pragprog.com/titles/wmecto/programming-ecto)
 * [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/titles/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
+* [Concurrent Data Processing in Elixir](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir)
 
 ## Courses
 
