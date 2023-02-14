@@ -4,9 +4,9 @@
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
 ## Courses
+* [Easy Rust](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+* [CS Honors @ Illinois](https://www.youtube.com/watch?v=2q1AzGUwL7M&list=PLezlz_6l_jm29rqinMjxf339cVPkXHD4h&index=6)
 * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion)
-* [Rust Lang Tutorial](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
-* [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/)
 
 ## Practice
 * [Exercism](https://exercism.org/tracks/rust)
