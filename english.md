@@ -3,6 +3,7 @@
 * [English Grammar in Use](https://en.wikipedia.org/wiki/English_Grammar_in_Use)
 
 ## Courses
+* [Cursive Writing](https://www.youtube.com/watch?v=XGBpqJ3VFDQ&list=PLp_0j14In7k7oaOOiksX6GqBjfnftiAvY)
 * [Target Structures](https://www.udemy.com/course/learn-english-grammar-upgrade-your-speaking-and-listening/)
 * [English Launch](https://www.udemy.com/course/english-launch-learn-english-for-free-upgrade-all-areas/)
 
