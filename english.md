@@ -3,9 +3,8 @@
 * [English Grammar in Use](https://en.wikipedia.org/wiki/English_Grammar_in_Use)
 
 ## Courses
-* [Cursive Writing](https://www.youtube.com/watch?v=XGBpqJ3VFDQ&list=PLp_0j14In7k7oaOOiksX6GqBjfnftiAvY)
+* [Consistent Cursive](https://www.youtube.com/playlist?list=PLrMvJfuADfNW41dwUGYcYDmJX3k2OSVMO)
 * [Target Structures](https://www.udemy.com/course/learn-english-grammar-upgrade-your-speaking-and-listening/)
-* [English Launch](https://www.udemy.com/course/english-launch-learn-english-for-free-upgrade-all-areas/)
 
 ## Video
 * [Oxford Online English](https://www.youtube.com/playlist?list=PLD6t6ckHsruY_i7_rZhKcRBmXDdawiqUM)
