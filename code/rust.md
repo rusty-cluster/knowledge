@@ -1,4 +1,5 @@
 ## Books
+* [Beginning Rust](https://www.oreilly.com/library/view/beginning-rust-from/9781484234686/)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * [Programming Rust](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
