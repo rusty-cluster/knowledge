@@ -1,6 +1,7 @@
 ## Books
 * [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)
 * [Programming Ecto](https://pragprog.com/titles/wmecto/programming-ecto)
+* [Testing Elixir](https://pragprog.com/titles/lmelixir/testing-elixir)
 * [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/titles/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
 * [Concurrent Data Processing in Elixir](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir)
 
